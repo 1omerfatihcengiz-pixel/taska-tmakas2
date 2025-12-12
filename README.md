@@ -85,34 +85,8 @@ VSCode → Live Server önerilir.
 🔹 3. Tarayıcıda aç
 http://localhost:5500/
 
-📌 Geliştirici Notları
-
-Bu proje, başlangıç seviyesinden orta seviyeye geçiş için çok iyi bir DOM – Event Handling – Random Logic egzersizidir.
-
-Eklemeyi düşünebileceğin geliştirmeler:
-
-🔥 Animasyonlu saldırı efektleri
-
-🎵 Ses efektleri
-
-🧠 Bilgisayarın strateji modu
-
-📱 Mobil uyumlu tasarım
-
-🏆 Skor kayıt sistemi
-
 👨‍💻 Yazar
 
 ömer fatih cengiz
 
-🎯 Lisans
 
-Bu proje MIT lisansı ile paylaşılabilir.
-
-Eğer istersen:
-
-✔️ README'ye görseller ekleyebilirim
-✔️ Rozetli (badgeli) profesyonel GitHub README hazırlayabilirim
-✔️ İngilizce sürümünü oluşturabilirim
-
-👉 İstersen hangisini ekleyeyim?
