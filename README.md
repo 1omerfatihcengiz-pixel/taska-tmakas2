@@ -103,7 +103,7 @@ Eklemeyi düşünebileceğin geliştirmeler:
 
 👨‍💻 Yazar
 
-Oguzhan tarafından geliştirilmiştir.
+ömer fatih cengiz
 
 🎯 Lisans
 
