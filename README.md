@@ -95,7 +95,7 @@ http://localhost:5500/
 
 
 
-![image alt]()
+![image alt](https://github.com/1omerfatihcengiz-pixel/taska-tmakas2/blob/1e1054b88a9da9e893105c5484c9779dc1ceb1f4/b4698ec5-72df-4eda-beaa-3cc3c09bb489.jpg)
 
 
 
